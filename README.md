@@ -1,4 +1,4 @@
-# Sublime Text **Default Packages** Bug and Issue Tracker 
+# Sublime Text -Default Packages- Bug and Issue Tracker 
 
 - Before writing a new issue, **[search for it](https://github.com/SublimeTextBugs/DefaultPackages/search?q=&type=Issues)** please, to check if it is already reported. **Please fill bug reports**, we encourage you to log properly every bug you found.
 - This repository is for **Sublime Text Default Packages**(language-specific) bugs. For SublimeText code bugs see: https://github.com/SublimeTextBugs/Issues/issues
