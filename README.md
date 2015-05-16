@@ -1,20 +1,18 @@
-# Sublime Text -Default Packages- Bug and Issue Tracker
-
+# Sublime Text - Default Packages - Bug and Issue Tracker
 
 ## The issue list
 
 Head straight to https://github.com/SublimeTextIssues/DefaultPackages/issues for a list of all issues or click `Issues` in the navigation bar on the right.
 
-
 ## Before creating a new issue
 
-*   **This tracker is for issues with the Sublime Text *Default Packages* only.** (for example syntax highlighting)
+* **This tracker is for issues with the Sublime Text *Default Packages* only.** (for example syntax highlighting)
 
     For issues with the Sublime Text Core, refer to the [Core repository](https://github.com/SublimeTextIssues/Core).
     
     For issues related to other packages, head over to the respective repository or contact its author. Start with a [clean profile](http://www.sublimetext.com/docs/3/revert.html) if you need to verify.
 
-*   Search for the issue [here](https://github.com/SublimeTextIssues/DefaultPackages/search?q=&type=Issues) to check if it was already reported. You may use labels for filterting the [issue list](https://github.com/SublimeTextIssues/DefaultPackages/issues) by clicking any of these related to the problem you want to report or request.
+* Search for the issue [here](https://github.com/SublimeTextIssues/DefaultPackages/search?q=&type=Issues) to check if it was already reported. You may use labels for filterting the [issue list](https://github.com/SublimeTextIssues/DefaultPackages/issues) by clicking any of these related to the problem you want to report or request.
 
 
 ## Filing a bug
@@ -31,10 +29,9 @@ Head straight to https://github.com/SublimeTextIssues/DefaultPackages/issues for
 *   Try to find a way to **reproduce** the problem and write down precise steps. It might be useful to include a code example for this. **if a specific code produces the bug, try to share the code**
 *   Workarounds or other related tips on how to avoid the issue are welcome.
 
-We won't slaughter you if you can't fulfill all of these steps but prepare to answer a few question if we think we're lacking information.
+We won't slaughter you if you can't fulfil all of these steps but prepare to answer a few question if we think we're lacking information.
 
 If you want to be really good at reporting bugs you can also read [these guidelines](https://landfill.bugzilla.org/bugzilla-tip/page.cgi?id=bug-writing.html) for bugzilla bugs.
-
 
 ## Filing an enhancement or a feature request
 
@@ -46,6 +43,6 @@ Note: "enhancements" are modifications to existing behaviour as opposed to somet
 
 ---
 
-This is a bug tracker run by the community. For the inital idea, read this forum thead: http://www.sublimetext.com/forum/viewtopic.php?f=2&t=12095.
+This is a bug tracker run by the community. For the initial idea, read this forum thread: http://www.sublimetext.com/forum/viewtopic.php?f=2&t=12095.
 
 If you would like to help maintain this issue list, head over to [this issue](https://github.com/SublimeTextIssues/Core/issues/614).
