@@ -12,7 +12,7 @@ Head straight to https://github.com/SublimeTextIssues/DefaultPackages/issues for
     
     For issues related to other packages, head over to the respective repository or contact its author. Start with a [clean profile](http://www.sublimetext.com/docs/3/revert.html) if you need to verify.
 
-* Search for the issue [here](https://github.com/SublimeTextIssues/DefaultPackages/search?q=&type=Issues) to check if it was already reported. You may use labels for filterting the [issue list](https://github.com/SublimeTextIssues/DefaultPackages/issues) by clicking any of these related to the problem you want to report or request.
+* Search for the issue [here](https://github.com/SublimeTextIssues/DefaultPackages/search?q=&type=Issues) to check if it was already reported. You may use labels for filtering the [issue list](https://github.com/SublimeTextIssues/DefaultPackages/issues) by clicking any of these related to the problem you want to report or request.
 
 
 ## Filing a bug
